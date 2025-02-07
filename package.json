@@ -1,0 +1,25 @@
+{
+  "name": "sep",
+  "version": "1.0.0",
+  "description": "System Evolution Processor - An advanced pattern evolution and information processing framework",
+  "private": true,
+  "engines": {
+    "node": ">=14.16"
+  },
+  "keywords": [
+    "pattern-evolution",
+    "information-processing",
+    "knowledge-management",
+    "pattern-recognition",
+    "relationship-analysis"
+  ],
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "repository": {
+    "type": "git",
+    "url": "private"
+  },
+  "files": [
+    "README.md",
+    "LICENSE.txt"
+  ]
+}
